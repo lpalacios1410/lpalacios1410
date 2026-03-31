@@ -25,8 +25,7 @@ Hello! I'm a developer passionate about building modern and functional web solut
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lpalacios1410&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!--![](https://github-readme-stats.vercel.app/api?username=lpalacios1410&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lpalacios1410&theme=dark&hide_border=false)<br/>
 ->>
