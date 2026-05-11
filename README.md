@@ -30,7 +30,7 @@ I'm looking for opportunities that not only allow me to add value to a business 
 
 ## 💻 Tech Stack
 
-### Frontend
+### Frontend 
 ![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -47,7 +47,7 @@ I'm looking for opportunities that not only allow me to add value to a business 
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools
@@ -69,11 +69,11 @@ I'm looking for opportunities that not only allow me to add value to a business 
 
 ### [🛍️ OnlyGirlsCss-Ecommerce](https://github.com/lpalacios1410/OnlyGirlsCss-Ecommerce)  
 Sistema de catálogo en línea para una tienda en Caracas. Creado para que los clientes puedan ver productos sin depender de WhatsApp.  
-`JavaScript`
+`React` `TailwindCSS` `NodeJS` `ExpressJS` `Supabase` 
 
 ### [💼 Portfolio.dev](https://github.com/lpalacios1410/Portfolio.dev)  
 Portfolio personal construido con Astro + Tailwind CSS para practicar y mostrar proyectos.  
-`Astro`
+`Astro` `TailwindCSS` `GSAP`
 
 ### [📋 crud-oplesk](https://github.com/lpalacios1410/crud-oplesk)  
 Aplicación CRUD funcional para gestión de datos.  
@@ -81,7 +81,7 @@ Aplicación CRUD funcional para gestión de datos.
 
 ### [🎬 Cinefilm](https://github.com/lpalacios1410/Cinefilm)  
 Plataforma de catálogo de películas con interfaz limpia.  
-`HTML`
+`HTML + CSS + JS`
 
 ### [📦 Proyecto4Geeks](https://github.com/lpalacios1410/Proyecto4Geeks)  
 Proyecto académico del bootcamp 4Geeks Academy.  
@@ -89,7 +89,7 @@ Proyecto académico del bootcamp 4Geeks Academy.
 
 ### [🤖 HyperFrames-IA](https://github.com/lpalacios1410/HyperFrames-IA)  
 Creación de videos cortos para Instagram usando HyperFrames + herramientas de IA.  
-`HTML`
+`HTML` `CSS` `VanillaJS` `GSAP`
 
 ---
 
