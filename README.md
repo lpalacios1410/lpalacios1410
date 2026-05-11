@@ -67,7 +67,29 @@ I'm looking for opportunities that not only allow me to add value to a business 
 
 ## 🚀 Featured Projects
 
-<!-- Agrega aquí tus proyectos destacados con breve descripción y enlace -->
+### [🛍️ OnlyGirlsCss-Ecommerce](https://github.com/lpalacios1410/OnlyGirlsCss-Ecommerce)  
+Sistema de catálogo en línea para una tienda en Caracas. Creado para que los clientes puedan ver productos sin depender de WhatsApp.  
+`JavaScript`
+
+### [💼 Portfolio.dev](https://github.com/lpalacios1410/Portfolio.dev)  
+Portfolio personal construido con Astro + Tailwind CSS para practicar y mostrar proyectos.  
+`Astro`
+
+### [📋 crud-oplesk](https://github.com/lpalacios1410/crud-oplesk)  
+Aplicación CRUD funcional para gestión de datos.  
+`JavaScript`
+
+### [🎬 Cinefilm](https://github.com/lpalacios1410/Cinefilm)  
+Plataforma de catálogo de películas con interfaz limpia.  
+`HTML`
+
+### [📦 Proyecto4Geeks](https://github.com/lpalacios1410/Proyecto4Geeks)  
+Proyecto académico del bootcamp 4Geeks Academy.  
+`PHP`
+
+### [🤖 HyperFrames-IA](https://github.com/lpalacios1410/HyperFrames-IA)  
+Creación de videos cortos para Instagram usando HyperFrames + herramientas de IA.  
+`HTML`
 
 ---
 
