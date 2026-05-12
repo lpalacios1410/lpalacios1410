@@ -54,7 +54,6 @@ I'm looking for opportunities that not only allow me to add value to a business 
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 
-<div align=center>
 
 ### Tools 🛠️
 
