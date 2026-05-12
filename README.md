@@ -53,13 +53,13 @@ I'm looking for opportunities that not only allow me to add value to a business 
 
 <div align=center>
 ### Tools 🛠️
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
-![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)]
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)]
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)]
+[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)]
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)]
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)]
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)]
 </div>
 
 
