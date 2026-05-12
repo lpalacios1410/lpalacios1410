@@ -28,11 +28,10 @@ I'm looking for opportunities that not only allow me to add value to a business 
 
 ---
 
-<div align="center">
-
 ## 💻 Tech Stack
 
 ### Frontend 🎨
+
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
@@ -41,36 +40,33 @@ I'm looking for opportunities that not only allow me to add value to a business 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 
-<br>
-
 ### Backend 🛠️
+
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
-<br>
-
 ### Database ⛈️
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
 
-<br>
+<div align=center>
 
 ### Tools 🛠️
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
-![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)]
+[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)]
+[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)]
+[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)]
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)]
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)]
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)]
 
 </div>
-
-
 ---
 
 ## 🚀 Featured Projects
