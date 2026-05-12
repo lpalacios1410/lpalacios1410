@@ -37,7 +37,7 @@ I'm looking for opportunities that not only allow me to add value to a business 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
 
 ### Backend 🛠️
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
