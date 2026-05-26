@@ -44,8 +44,8 @@ I'm looking for opportunities that not only allow me to add value to a business 
 
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
-![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
+`![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)`
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
 ### Database ⛈️
