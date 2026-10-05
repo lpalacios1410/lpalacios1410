@@ -1,44 +1,51 @@
-
 # 👋 Hi, I'm Luis Palacios
 
-**Frontend-focused developer** building modern web experiences with React, TypeScript, and Tailwind CSS. I turn complex problems into clean, responsive interfaces that users love.
+**Full Stack Developer** specialized in creating custom digital solutions. I turn complex problems into functional, scalable, and visually consistent web applications.
 
-> I really enjoy creating websites, animations, transitions, and making visually appealing sites. I consider myself more comfortable with front-end development, but I can easily handle both roles.
+> I enjoy building websites, animations, transitions, and crafting clean, user-friendly experiences. I work comfortably across both frontend and backend to deliver complete, production-ready solutions.
 
-> 🇪🇸 Desarrollador frontend apasionado por crear experiencias web modernas. Especializado en React, TypeScript y Tailwind CSS.
+> 🇪🇸 Desarrollador Full Stack especializado en la creación de soluciones digitales a medida. Desarrollo aplicaciones web funcionales, escalables y visualmente coherentes.
 
 ---
 
 ## 🔭 Currently Building
 
-- **OnlyGirlsCss-Ecommerce** — Full-stack ecommerce catalog with admin dashboard, real-time filtering, and cart system
-- **Portfolio.dev** — Personal portfolio with bilingual support, GSAP animations, and GitHub GraphQL integration
-- Leveling up on **testing** (Playwright) and **animations** (GSAP / Framer Motion)
+- **MecaAPP** — Web app that connects customers with mechanics, with built-in vehicle maintenance plan management.
+- **OnlyGirlsCss-Ecommerce** — Full-stack e-commerce catalog with admin dashboard, real-time filtering, and cart system.
+- **Portfolio.dev** — Personal portfolio with bilingual support, GSAP animations, and GitHub GraphQL integration.
+- Exploring **Artificial Intelligence Engineering** through self-directed learning.
 
 ---
 
 ## 🧰 Tech Stack
 
-**Frontend** — React · TypeScript · JavaScript · Astro · Tailwind CSS · Bootstrap · GSAP  
-**Backend** — Node.js · Express · REST APIs  
-**Database** — PostgreSQL · MySQL · Supabase  
-**Tools** — Vite · pnpm · Playwright · Postman · Git · Vercel
+**Frontend** — React · Next.js · TypeScript · JavaScript · Astro · Tailwind CSS · Bootstrap · GSAP
+
+**Backend** — Node.js · Express · REST APIs · Flask
+
+**Database** — PostgreSQL · MySQL · Supabase
+
+**Tools & DevOps** — Vite · pnpm · Playwright · Postman · Git · Vercel ·
 
 ---
 
 ## 🚀 Featured Projects
 
+### [MecaAPP](https://github.com/lpalacios1410/MecaApp)
+Web application designed to connect customers with mechanics, providing a custom-built digital solution for managing vehicle maintenance plans. Built to solve real needs in the Venezuelan market, with a focus on usability and scalability.
+→ [Live Demo](https://meca-app-omega.vercel.app/) · `Next.js` `TypeScript` `Tailwind CSS` `Supabase`
+
 ### [OnlyGirlsCss-Ecommerce](https://github.com/lpalacios1410/OnlyGirlsCss-Ecommerce)
-Full-stack ecommerce catalog for a real Caracas-based store. Admin dashboard, product filtering, cart, favorites, responsive design with SSR + SEO.
+Full-stack e-commerce catalog for a real Caracas-based store. Features an admin dashboard, product filtering, cart, favorites, responsive design with SSR + SEO.
 → [Live Demo](https://onlygirlsccs.vercel.app/) · `React 19` `TypeScript` `Tailwind CSS` `Express` `Supabase` `Playwright`
 
 ### [Portfolio.dev](https://github.com/lpalacios1410/Portfolio.dev)
-Personal portfolio with bilingual support, smooth GSAP animations, and a live GitHub contribution calendar via GraphQL.
+Personal portfolio with bilingual support, smooth GSAP animations, and a live GitHub contribution calendar powered by GraphQL.
 → [Live Demo](https://portfolio-dev-nine-phi.vercel.app/) · `Astro` `Tailwind CSS` `GSAP` `TypeScript`
 
 ### [crud-oplesk](https://github.com/lpalacios1410/crud-oplesk)
-Full-stack CRUD application deployed on AWS EC2 with Docker. React + Flask + PostgreSQL.
-`React` `Python (Flask)` `PostgreSQL` `Docker` `AWS`
+Full-stack CRUD application deployed on AWS EC2 with Docker. Combines React on the frontend with Flask and PostgreSQL on the backend.
+→ `React` `Python (Flask)` `PostgreSQL` `Docker` `AWS`
 
 ---
 
